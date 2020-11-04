@@ -1,12 +1,4 @@
 
-/*
-	calculator08buggy.cpp
-
-	Helpful comments removed.
-
-	We have inserted 3 bugs that the compiler will catch and 3 that it won't.
-*/
-
 #include "std_lib_facilities.h"
 
 const char let = '#';
